@@ -1,3 +1,4 @@
+# DEPRECATED. Moved to https://registry.terraform.io/modules/terraform-iaac/service/kubernetes/latest
 ### Module for service
 
 ### Provider versions:
